@@ -1,0 +1,2 @@
+# HomeAutoTest
+Home Automation Sandbox
